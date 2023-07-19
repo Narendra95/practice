@@ -2,3 +2,4 @@ Sample file
 second line of text
 third line
 fourth line
+fifth line
